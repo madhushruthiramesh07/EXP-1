@@ -61,7 +61,8 @@ a.   KVL: ![IMG-20251016-WA0019 1](https://github.com/user-attachments/assets/80
  
 
 
-b.  KCL: ![IMG-20251016-WA0019 1](https://github.com/user-attachments/assets/e70cfa63-57ea-4df0-a660-2118791662e1)
+b.  KCL ![IMG-20251016-WA0018 1](https://github.com/user-attachments/assets/935e5a24-f416-4288-b0b9-c797c8623eb3)
+
 
 
 
